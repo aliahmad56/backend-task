@@ -36,8 +36,8 @@ Add the following environment variables to your .env file, Add the values for fo
 JWT_TOKEN_SECRET=Secret_Key
 FRONT_END=http://localhost:5173
 #Brevo For mail Sending Details
-BREVO_EMAIL=aliahmad56b@gmail.com
-BREVO_PASS=xsmtpsib-208f9e92ffb52b5e6849481afee79f4d60bdbfa1e41c67c9fab7c23646fb5ba9-TyO6krNvCcE4dR3h
+BREVO_EMAIL=
+BREVO_PASS=
 
 Usage
 Start the development server to run the project locally
